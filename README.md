@@ -46,7 +46,7 @@ pip install -e .
 # 1. Đăng nhập GitHub lần đầu
 vgh dangnhap
 
-# 2. Tạo dự án mới trên GitHub ngay từ terminal
+# 2. Tạo dự án mới trên GitHub ngay từ terminal (kết hợp vwt & vgit)
 vgh taorepo du-an-dau-tien
 
 # 3. Xem nhanh các Pull Request hoặc Issue
@@ -56,6 +56,8 @@ vgh issue xem
 # 4. Mở trang GitHub của dự án trên trình duyệt
 vgh mo
 ```
+
+> 💡 **Mẹo kết hợp trọn bộ:** Dùng [`vwt` (terminal-tieng-viet)](https://github.com/cmduyeen/terminal-tieng-viet) để thao tác thư mục (`taothumuc`, `vao`) và [`vgit` (git-tieng-viet)](https://github.com/cmduyeen/git-tieng-viet) để lưu code (`vgit luu`, `vgit day`) trước khi mở PR bằng `vgh`.
 
 ---
 
