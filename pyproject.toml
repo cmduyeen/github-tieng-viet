@@ -13,6 +13,13 @@ authors = [
     { name = "Dyn" }
 ]
 dependencies = []
+keywords = ["github", "gh", "vietnamese", "github-tieng-viet", "vgh", "cli", "beginner"]
+
+[project.urls]
+Homepage = "https://github.com/cmduyeen/github-tieng-viet"
+Repository = "https://github.com/cmduyeen/github-tieng-viet"
+Issues = "https://github.com/cmduyeen/github-tieng-viet/issues"
+Funding = "https://ko-fi.com/cmduyeen"
 
 [project.scripts]
 vgh = "vgh.cli:main"
