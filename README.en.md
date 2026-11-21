@@ -11,18 +11,18 @@
 
 ### Windows (PowerShell)
 ```powershell
-irm https://raw.githubusercontent.com/cmduyeen/vgh/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/cmduyeen/github-tieng-viet/main/install.ps1 | iex
 ```
 
 ### macOS / Linux
 ```bash
-curl -fsSL https://raw.githubusercontent.com/cmduyeen/vgh/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/cmduyeen/github-tieng-viet/main/install.sh | sh
 ```
 
 ### From Source
 ```powershell
-git clone https://github.com/cmduyeen/vgh.git
-cd vgh
+git clone https://github.com/cmduyeen/github-tieng-viet.git
+cd github-tieng-viet
 pip install -e .
 ```
 
@@ -45,10 +45,10 @@ pip install -e .
 
 | Tool | Description | Repository |
 | :--- | :--- | :--- |
-| **vpy** | Vietnamese Python (`.vpy`) & `vide` editor | [cmduyeen/vpy](https://github.com/cmduyeen/vpy) |
-| **vgit** | Vietnamese Git CLI for beginners | [cmduyeen/vgit](https://github.com/cmduyeen/vgit) |
-| **vgh** *(current)* | Vietnamese GitHub CLI (`gh`) | [cmduyeen/vgh](https://github.com/cmduyeen/vgh) |
-| **vwt** | Vietnamese Windows Terminal / PowerShell commands | [cmduyeen/vwt](https://github.com/cmduyeen/vwt) |
+| **vpy** | Vietnamese Python (`.vpy`) & `vide` editor | [cmduyeen/python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet) |
+| **vgit** | Vietnamese Git CLI for beginners | [cmduyeen/git-tieng-viet](https://github.com/cmduyeen/git-tieng-viet) |
+| **vgh** *(current)* | Vietnamese GitHub CLI (`gh`) | [cmduyeen/github-tieng-viet](https://github.com/cmduyeen/github-tieng-viet) |
+| **vwt** | Vietnamese Windows Terminal / PowerShell commands | [cmduyeen/terminal-tieng-viet](https://github.com/cmduyeen/terminal-tieng-viet) |
 
 ---
 

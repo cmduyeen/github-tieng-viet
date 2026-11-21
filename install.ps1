@@ -24,7 +24,7 @@ if (-not $py) {
     }
 }
 
-$RepoUrl = if ($env:VGH_REPO_URL) { $env:VGH_REPO_URL } else { "git+https://github.com/cmduyeen/vgh.git" }
+$RepoUrl = if ($env:VGH_REPO_URL) { $env:VGH_REPO_URL } else { "git+https://github.com/cmduyeen/github-tieng-viet.git" }
 Write-Host "[vgh] Dang cai dat vgh..." -ForegroundColor Cyan
 python -m pip install --user --upgrade $RepoUrl
 

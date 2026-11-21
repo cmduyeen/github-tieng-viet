@@ -18,12 +18,12 @@ pip install -e .
 ### Cài 1 dòng từ GitHub
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/cmduyeen/vgh/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/cmduyeen/github-tieng-viet/main/install.ps1 | iex
 ```
 
 **macOS / Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/cmduyeen/vgh/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/cmduyeen/github-tieng-viet/main/install.sh | sh
 ```
 
 ## Bảng lệnh cơ bản
@@ -45,10 +45,10 @@ curl -fsSL https://raw.githubusercontent.com/cmduyeen/vgh/main/install.sh | sh
 
 | Công cụ | Mô tả | Link |
 | :--- | :--- | :--- |
-| **vpy** | Python tiếng Việt (`.vpy`) & trình soạn thảo `vide` | [cmduyeen/vpy](https://github.com/cmduyeen/vpy) |
-| **vgit** | Git tiếng Việt cho người mới học | [cmduyeen/vgit](https://github.com/cmduyeen/vgit) |
-| **vgh** *(đang xem)* | GitHub CLI (`gh`) tiếng Việt | [cmduyeen/vgh](https://github.com/cmduyeen/vgh) |
-| **vwt** | Windows Terminal / PowerShell tiếng Việt | [cmduyeen/vwt](https://github.com/cmduyeen/vwt) |
+| **vpy** | Python tiếng Việt (`.vpy`) & trình soạn thảo `vide` | [cmduyeen/python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet) |
+| **vgit** | Git tiếng Việt cho người mới học | [cmduyeen/git-tieng-viet](https://github.com/cmduyeen/git-tieng-viet) |
+| **vgh** *(đang xem)* | GitHub CLI (`gh`) tiếng Việt | [cmduyeen/github-tieng-viet](https://github.com/cmduyeen/github-tieng-viet) |
+| **vwt** | Windows Terminal / PowerShell tiếng Việt | [cmduyeen/terminal-tieng-viet](https://github.com/cmduyeen/terminal-tieng-viet) |
 
 ---
 

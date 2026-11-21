@@ -13,7 +13,7 @@ if ! command -v python3 >/dev/null 2>&1; then
     exit 1
 fi
 
-REPO_URL="${VGH_REPO_URL:-git+https://github.com/cmduyeen/vgh.git}"
+REPO_URL="${VGH_REPO_URL:-git+https://github.com/cmduyeen/github-tieng-viet.git}"
 
 if command -v pipx >/dev/null 2>&1; then
     pipx install --force "$REPO_URL"

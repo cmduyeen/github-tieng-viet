@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "vgh"
+name = "github-tieng-viet"
 version = "0.1.0"
 description = "GitHub CLI (gh) Viet hoa cho nguoi moi hoc va tre em"
 readme = "README.md"
